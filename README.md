@@ -10,7 +10,6 @@ This Bash script allows you to translate text from an auto-detected source langu
 - [Customizing the Translation Language](#customizing-the-translation-language)
 - [Creating a Shortcut](#creating-a-shortcut)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Usage
 
